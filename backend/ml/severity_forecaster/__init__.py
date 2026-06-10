@@ -1,0 +1,1 @@
+"""LightGBM severity deterioration forecasting."""

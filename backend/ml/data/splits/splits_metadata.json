@@ -1,0 +1,29 @@
+{
+  "train_samples": 1221,
+  "val_samples": 262,
+  "test_samples": 262,
+  "total_samples": 1745,
+  "split_ratio": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "random_state": 42,
+  "class_counts": {
+    "Longitudinal crack": {
+      "train": 970,
+      "val": 208,
+      "test": 209
+    },
+    "Pothole": {
+      "train": 138,
+      "val": 30,
+      "test": 29
+    },
+    "Surface delamination": {
+      "train": 113,
+      "val": 24,
+      "test": 24
+    }
+  }
+}

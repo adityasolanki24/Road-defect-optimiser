@@ -1,0 +1,46 @@
+{
+  "source": "RDD2022",
+  "countries": [
+    "Czech"
+  ],
+  "samples": 1745,
+  "defect_types": [
+    "Longitudinal crack",
+    "Pothole",
+    "Surface delamination"
+  ],
+  "rdd_mapping": {
+    "D00": "Longitudinal crack",
+    "D10": "Longitudinal crack",
+    "D20": "Surface delamination",
+    "D40": "Pothole"
+  },
+  "classifier_shape": [
+    1745,
+    9226
+  ],
+  "severity_shape": [
+    1745,
+    11
+  ],
+  "growth_7d": {
+    "Longitudinal crack": 0.029354286193847657,
+    "Pothole": 0.02,
+    "Surface delamination": 0.022263157367706298
+  },
+  "growth_14d": {
+    "Longitudinal crack": 0.052907887101173404,
+    "Pothole": 0.04,
+    "Surface delamination": 0.04029914438724518
+  },
+  "forecast_horizon_days": 7,
+  "repair_hours_per_severity": 3.2,
+  "severity_note": "Severity is derived from RDD2022 bounding-box damage area on each annotated crop.",
+  "repair_note": "Repair hours scale linearly with predicted severity using RDD2022 damage-size statistics.",
+  "splits_dir": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\splits",
+  "split_ratio": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  }
+}

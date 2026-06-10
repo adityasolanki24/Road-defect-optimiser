@@ -1,0 +1,127 @@
+{
+  "classifier": {
+    "test": {
+      "accuracy": 0.855,
+      "macro_f1": 0.6267,
+      "weighted_f1": 0.8295,
+      "per_class": {
+        "Longitudinal crack": {
+          "precision": 0.8577,
+          "recall": 0.9809,
+          "f1": 0.9152,
+          "support": 209
+        },
+        "Pothole": {
+          "precision": 0.8125,
+          "recall": 0.4483,
+          "f1": 0.5778,
+          "support": 29
+        },
+        "Surface delamination": {
+          "precision": 0.8571,
+          "recall": 0.25,
+          "f1": 0.3871,
+          "support": 24
+        }
+      }
+    },
+    "validation": {
+      "accuracy": 0.8588,
+      "macro_f1": 0.6373,
+      "weighted_f1": 0.8349,
+      "per_class": {
+        "Longitudinal crack": {
+          "precision": 0.865,
+          "recall": 0.9856,
+          "f1": 0.9213,
+          "support": 208
+        },
+        "Pothole": {
+          "precision": 0.7647,
+          "recall": 0.4333,
+          "f1": 0.5532,
+          "support": 30
+        },
+        "Surface delamination": {
+          "precision": 0.875,
+          "recall": 0.2917,
+          "f1": 0.4375,
+          "support": 24
+        }
+      }
+    }
+  },
+  "severity_regressor": {
+    "test": {
+      "mae": 0.0235,
+      "rmse": 0.0298,
+      "r2": 0.5309
+    },
+    "validation": {
+      "mae": 0.0239,
+      "rmse": 0.0295,
+      "r2": 0.5601
+    }
+  },
+  "severity_forecaster_7d": {
+    "test": {
+      "mae": 0.0006,
+      "rmse": 0.0018,
+      "r2": 0.9983
+    },
+    "validation": {
+      "mae": 0.0004,
+      "rmse": 0.0009,
+      "r2": 0.9996
+    }
+  },
+  "severity_forecaster_14d": {
+    "test": {
+      "mae": 0.0006,
+      "rmse": 0.0018,
+      "r2": 0.9982
+    },
+    "validation": {
+      "mae": 0.0004,
+      "rmse": 0.001,
+      "r2": 0.9994
+    }
+  },
+  "splits": {
+    "train_samples": 1221,
+    "val_samples": 262,
+    "test_samples": 262,
+    "total_samples": 1745,
+    "split_ratio": {
+      "train": 0.7,
+      "val": 0.15,
+      "test": 0.15
+    },
+    "random_state": 42,
+    "class_counts": {
+      "Longitudinal crack": {
+        "train": 970,
+        "val": 208,
+        "test": 209
+      },
+      "Pothole": {
+        "train": 138,
+        "val": 30,
+        "test": 29
+      },
+      "Surface delamination": {
+        "train": 113,
+        "val": 24,
+        "test": 24
+      }
+    }
+  },
+  "artifacts": {
+    "confusion_matrix_png": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\evaluation\\reports\\confusion_matrix_classifier.png",
+    "confusion_matrix_csv": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\evaluation\\reports\\confusion_matrix_classifier.csv",
+    "class_distribution_png": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\evaluation\\reports\\class_distribution.png",
+    "severity_regressor_scatter_png": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\evaluation\\reports\\severity_regressor_scatter.png",
+    "severity_forecast_7d_scatter_png": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\evaluation\\reports\\severity_forecast_7d_scatter.png",
+    "severity_forecast_14d_scatter_png": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\evaluation\\reports\\severity_forecast_14d_scatter.png"
+  }
+}

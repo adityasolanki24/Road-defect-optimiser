@@ -1,0 +1,2098 @@
+[
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000021.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 128,
+    "ymin": 431,
+    "xmax": 214,
+    "ymax": 446
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000062.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 303,
+    "ymin": 372,
+    "xmax": 505,
+    "ymax": 518
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000062.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 400,
+    "xmax": 203,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000064.jpg",
+    "defect_type": "Pothole",
+    "xmin": 81,
+    "ymin": 409,
+    "xmax": 134,
+    "ymax": 425
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000070.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 153,
+    "ymin": 425,
+    "xmax": 222,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000083.jpg",
+    "defect_type": "Pothole",
+    "xmin": 488,
+    "ymin": 474,
+    "xmax": 536,
+    "ymax": 493
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000086.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 334,
+    "ymin": 422,
+    "xmax": 429,
+    "ymax": 523
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000092.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 128,
+    "ymin": 483,
+    "xmax": 241,
+    "ymax": 509
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000100.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 335,
+    "ymin": 449,
+    "xmax": 412,
+    "ymax": 501
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000125.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 311,
+    "ymin": 452,
+    "xmax": 386,
+    "ymax": 520
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000139.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 198,
+    "ymin": 423,
+    "xmax": 260,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000157.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 370,
+    "ymin": 461,
+    "xmax": 417,
+    "ymax": 527
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000177.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 370,
+    "ymin": 455,
+    "xmax": 434,
+    "ymax": 530
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000248.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 3,
+    "ymin": 438,
+    "xmax": 171,
+    "ymax": 519
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000253.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 235,
+    "ymin": 424,
+    "xmax": 390,
+    "ymax": 530
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000253.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 59,
+    "ymin": 411,
+    "xmax": 224,
+    "ymax": 505
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000271.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 298,
+    "ymin": 417,
+    "xmax": 347,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000273.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 248,
+    "ymin": 420,
+    "xmax": 284,
+    "ymax": 498
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000293.jpg",
+    "defect_type": "Pothole",
+    "xmin": 219,
+    "ymin": 408,
+    "xmax": 291,
+    "ymax": 429
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000294.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 57,
+    "ymin": 470,
+    "xmax": 112,
+    "ymax": 519
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000296.jpg",
+    "defect_type": "Pothole",
+    "xmin": 304,
+    "ymin": 394,
+    "xmax": 374,
+    "ymax": 419
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000302.jpg",
+    "defect_type": "Pothole",
+    "xmin": 273,
+    "ymin": 434,
+    "xmax": 316,
+    "ymax": 453
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000318.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 265,
+    "ymin": 401,
+    "xmax": 362,
+    "ymax": 520
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000332.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 264,
+    "ymin": 401,
+    "xmax": 284,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000336.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 325,
+    "ymin": 497,
+    "xmax": 389,
+    "ymax": 514
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000336.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 6,
+    "ymin": 403,
+    "xmax": 162,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000422.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 358,
+    "ymin": 463,
+    "xmax": 414,
+    "ymax": 530
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000422.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 466,
+    "xmax": 134,
+    "ymax": 492
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000426.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 251,
+    "ymin": 420,
+    "xmax": 277,
+    "ymax": 521
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000429.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 34,
+    "ymin": 454,
+    "xmax": 120,
+    "ymax": 524
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000434.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 257,
+    "ymin": 430,
+    "xmax": 313,
+    "ymax": 520
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000455.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 190,
+    "ymin": 452,
+    "xmax": 385,
+    "ymax": 499
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000456.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 332,
+    "ymin": 398,
+    "xmax": 431,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000523.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 393,
+    "ymin": 467,
+    "xmax": 449,
+    "ymax": 534
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000526.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 256,
+    "ymin": 408,
+    "xmax": 340,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000529.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 190,
+    "ymin": 399,
+    "xmax": 259,
+    "ymax": 417
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000545.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 49,
+    "ymin": 419,
+    "xmax": 174,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000559.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 197,
+    "ymin": 489,
+    "xmax": 318,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000580.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 250,
+    "ymin": 464,
+    "xmax": 288,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000593.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 263,
+    "ymin": 392,
+    "xmax": 307,
+    "ymax": 492
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000596.jpg",
+    "defect_type": "Pothole",
+    "xmin": 309,
+    "ymin": 417,
+    "xmax": 357,
+    "ymax": 448
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000599.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 315,
+    "ymin": 442,
+    "xmax": 396,
+    "ymax": 524
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000621.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 218,
+    "ymin": 401,
+    "xmax": 275,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000634.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 175,
+    "ymin": 469,
+    "xmax": 246,
+    "ymax": 484
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000660.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 227,
+    "ymin": 387,
+    "xmax": 255,
+    "ymax": 472
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000666.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 155,
+    "ymin": 476,
+    "xmax": 323,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000687.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 156,
+    "ymin": 407,
+    "xmax": 375,
+    "ymax": 520
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000693.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 496,
+    "xmax": 65,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000757.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 364,
+    "ymin": 475,
+    "xmax": 396,
+    "ymax": 527
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000760.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 165,
+    "ymin": 475,
+    "xmax": 402,
+    "ymax": 506
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000760.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 82,
+    "ymin": 446,
+    "xmax": 213,
+    "ymax": 472
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000792.jpg",
+    "defect_type": "Pothole",
+    "xmin": 351,
+    "ymin": 460,
+    "xmax": 399,
+    "ymax": 533
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000814.jpg",
+    "defect_type": "Pothole",
+    "xmin": 314,
+    "ymin": 459,
+    "xmax": 414,
+    "ymax": 532
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000842.jpg",
+    "defect_type": "Pothole",
+    "xmin": 154,
+    "ymin": 433,
+    "xmax": 197,
+    "ymax": 447
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000844.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 244,
+    "ymin": 449,
+    "xmax": 375,
+    "ymax": 469
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000844.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 188,
+    "ymin": 407,
+    "xmax": 229,
+    "ymax": 464
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000853.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 215,
+    "ymin": 368,
+    "xmax": 264,
+    "ymax": 421
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000876.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 17,
+    "ymin": 446,
+    "xmax": 321,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000910.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 214,
+    "ymin": 435,
+    "xmax": 254,
+    "ymax": 489
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000920.jpg",
+    "defect_type": "Pothole",
+    "xmin": 182,
+    "ymin": 446,
+    "xmax": 228,
+    "ymax": 480
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000925.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 330,
+    "ymin": 442,
+    "xmax": 387,
+    "ymax": 534
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000931.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 93,
+    "ymin": 408,
+    "xmax": 224,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_000982.jpg",
+    "defect_type": "Pothole",
+    "xmin": 121,
+    "ymin": 435,
+    "xmax": 208,
+    "ymax": 480
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001005.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 9,
+    "ymin": 461,
+    "xmax": 123,
+    "ymax": 488
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001028.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 336,
+    "ymin": 453,
+    "xmax": 376,
+    "ymax": 531
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001041.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 15,
+    "ymin": 421,
+    "xmax": 78,
+    "ymax": 448
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001065.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 427,
+    "ymin": 477,
+    "xmax": 497,
+    "ymax": 532
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001066.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 211,
+    "ymin": 430,
+    "xmax": 360,
+    "ymax": 459
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001088.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 179,
+    "ymin": 470,
+    "xmax": 219,
+    "ymax": 519
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001097.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 202,
+    "ymin": 425,
+    "xmax": 258,
+    "ymax": 516
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001120.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 83,
+    "ymin": 472,
+    "xmax": 170,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001161.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 194,
+    "ymin": 382,
+    "xmax": 287,
+    "ymax": 433
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001183.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 139,
+    "ymin": 393,
+    "xmax": 265,
+    "ymax": 453
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001206.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 184,
+    "ymin": 418,
+    "xmax": 222,
+    "ymax": 527
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001210.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 63,
+    "ymin": 431,
+    "xmax": 164,
+    "ymax": 519
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001237.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 322,
+    "ymin": 430,
+    "xmax": 382,
+    "ymax": 530
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001243.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 272,
+    "ymin": 412,
+    "xmax": 311,
+    "ymax": 463
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001246.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 310,
+    "ymin": 409,
+    "xmax": 389,
+    "ymax": 528
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001248.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 109,
+    "ymin": 455,
+    "xmax": 182,
+    "ymax": 517
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001253.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 327,
+    "ymin": 432,
+    "xmax": 382,
+    "ymax": 489
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001270.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 378,
+    "ymin": 486,
+    "xmax": 435,
+    "ymax": 543
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001277.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 293,
+    "ymin": 407,
+    "xmax": 378,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001299.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 54,
+    "ymin": 453,
+    "xmax": 159,
+    "ymax": 531
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001315.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 327,
+    "ymin": 435,
+    "xmax": 388,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001317.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 235,
+    "ymin": 427,
+    "xmax": 264,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001317.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 105,
+    "ymin": 436,
+    "xmax": 134,
+    "ymax": 487
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001338.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 317,
+    "ymin": 427,
+    "xmax": 394,
+    "ymax": 520
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001355.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 152,
+    "ymin": 426,
+    "xmax": 225,
+    "ymax": 521
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001381.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 358,
+    "ymin": 462,
+    "xmax": 431,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001391.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 276,
+    "ymin": 431,
+    "xmax": 324,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001394.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 235,
+    "ymin": 414,
+    "xmax": 260,
+    "ymax": 483
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001406.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 76,
+    "ymin": 414,
+    "xmax": 112,
+    "ymax": 496
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001441.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 235,
+    "ymin": 471,
+    "xmax": 346,
+    "ymax": 497
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001442.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 453,
+    "xmax": 317,
+    "ymax": 494
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001451.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 169,
+    "ymin": 464,
+    "xmax": 259,
+    "ymax": 502
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001465.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 288,
+    "ymin": 472,
+    "xmax": 383,
+    "ymax": 492
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001475.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 193,
+    "ymin": 423,
+    "xmax": 285,
+    "ymax": 438
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001509.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 77,
+    "ymin": 441,
+    "xmax": 165,
+    "ymax": 512
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001514.jpg",
+    "defect_type": "Pothole",
+    "xmin": 100,
+    "ymin": 422,
+    "xmax": 119,
+    "ymax": 439
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001518.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 225,
+    "ymin": 420,
+    "xmax": 259,
+    "ymax": 479
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001525.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 454,
+    "xmax": 481,
+    "ymax": 507
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001546.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 60,
+    "ymin": 464,
+    "xmax": 197,
+    "ymax": 482
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001554.jpg",
+    "defect_type": "Pothole",
+    "xmin": 217,
+    "ymin": 429,
+    "xmax": 307,
+    "ymax": 459
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001562.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 41,
+    "ymin": 440,
+    "xmax": 147,
+    "ymax": 509
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001564.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 280,
+    "ymin": 397,
+    "xmax": 398,
+    "ymax": 528
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001593.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 40,
+    "ymin": 379,
+    "xmax": 57,
+    "ymax": 438
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001624.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 153,
+    "ymin": 492,
+    "xmax": 234,
+    "ymax": 514
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001635.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 78,
+    "ymin": 411,
+    "xmax": 200,
+    "ymax": 505
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001635.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 88,
+    "ymin": 388,
+    "xmax": 188,
+    "ymax": 439
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001637.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 89,
+    "ymin": 450,
+    "xmax": 252,
+    "ymax": 509
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001648.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 62,
+    "ymin": 449,
+    "xmax": 340,
+    "ymax": 465
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001648.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 74,
+    "ymin": 430,
+    "xmax": 249,
+    "ymax": 447
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001649.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 46,
+    "ymin": 442,
+    "xmax": 135,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001649.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 80,
+    "ymin": 470,
+    "xmax": 312,
+    "ymax": 501
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001658.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 347,
+    "ymin": 416,
+    "xmax": 423,
+    "ymax": 484
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001676.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 431,
+    "ymin": 416,
+    "xmax": 599,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001678.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 37,
+    "ymin": 444,
+    "xmax": 159,
+    "ymax": 518
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001683.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 300,
+    "ymin": 461,
+    "xmax": 381,
+    "ymax": 517
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001683.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 126,
+    "ymin": 447,
+    "xmax": 176,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001694.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 347,
+    "ymin": 454,
+    "xmax": 394,
+    "ymax": 501
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001740.jpg",
+    "defect_type": "Pothole",
+    "xmin": 71,
+    "ymin": 487,
+    "xmax": 100,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001748.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 295,
+    "ymin": 407,
+    "xmax": 320,
+    "ymax": 444
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001750.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 223,
+    "ymin": 460,
+    "xmax": 390,
+    "ymax": 491
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001752.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 242,
+    "ymin": 432,
+    "xmax": 285,
+    "ymax": 518
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001769.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 247,
+    "ymin": 386,
+    "xmax": 270,
+    "ymax": 514
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001771.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 85,
+    "ymin": 472,
+    "xmax": 136,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001779.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 11,
+    "ymin": 411,
+    "xmax": 171,
+    "ymax": 516
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001784.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 154,
+    "ymin": 433,
+    "xmax": 241,
+    "ymax": 528
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001815.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 42,
+    "ymin": 478,
+    "xmax": 243,
+    "ymax": 499
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001832.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 261,
+    "ymin": 360,
+    "xmax": 293,
+    "ymax": 476
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001832.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 196,
+    "ymin": 393,
+    "xmax": 252,
+    "ymax": 475
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001846.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 122,
+    "ymin": 454,
+    "xmax": 183,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001876.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 191,
+    "ymin": 408,
+    "xmax": 243,
+    "ymax": 450
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001878.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 165,
+    "ymin": 419,
+    "xmax": 188,
+    "ymax": 436
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001912.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 359,
+    "ymin": 470,
+    "xmax": 387,
+    "ymax": 533
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001922.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 292,
+    "ymin": 457,
+    "xmax": 400,
+    "ymax": 475
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001939.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 222,
+    "ymin": 452,
+    "xmax": 259,
+    "ymax": 512
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001943.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 299,
+    "ymin": 370,
+    "xmax": 359,
+    "ymax": 442
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001948.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 88,
+    "ymin": 422,
+    "xmax": 170,
+    "ymax": 516
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001962.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 7,
+    "ymin": 447,
+    "xmax": 106,
+    "ymax": 466
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001970.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 49,
+    "ymin": 418,
+    "xmax": 266,
+    "ymax": 500
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_001980.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 233,
+    "ymin": 417,
+    "xmax": 253,
+    "ymax": 507
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002006.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 280,
+    "ymin": 398,
+    "xmax": 330,
+    "ymax": 446
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002013.jpg",
+    "defect_type": "Pothole",
+    "xmin": 402,
+    "ymin": 501,
+    "xmax": 452,
+    "ymax": 525
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002028.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 352,
+    "ymin": 410,
+    "xmax": 472,
+    "ymax": 529
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002028.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 451,
+    "xmax": 78,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002041.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 279,
+    "ymin": 421,
+    "xmax": 315,
+    "ymax": 527
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002041.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 301,
+    "ymin": 476,
+    "xmax": 441,
+    "ymax": 503
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002063.jpg",
+    "defect_type": "Pothole",
+    "xmin": 409,
+    "ymin": 425,
+    "xmax": 443,
+    "ymax": 442
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002080.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 127,
+    "ymin": 489,
+    "xmax": 227,
+    "ymax": 508
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002116.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 298,
+    "ymin": 438,
+    "xmax": 330,
+    "ymax": 500
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002126.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 14,
+    "ymin": 473,
+    "xmax": 564,
+    "ymax": 530
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002128.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 469,
+    "xmax": 303,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002136.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 323,
+    "ymin": 411,
+    "xmax": 434,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002147.jpg",
+    "defect_type": "Pothole",
+    "xmin": 269,
+    "ymin": 488,
+    "xmax": 385,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002153.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 135,
+    "ymin": 452,
+    "xmax": 193,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002168.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 311,
+    "ymin": 459,
+    "xmax": 461,
+    "ymax": 488
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002173.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 29,
+    "ymin": 424,
+    "xmax": 135,
+    "ymax": 508
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002177.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 175,
+    "ymin": 436,
+    "xmax": 223,
+    "ymax": 485
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002223.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 251,
+    "ymin": 411,
+    "xmax": 271,
+    "ymax": 481
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002224.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 252,
+    "ymin": 414,
+    "xmax": 284,
+    "ymax": 505
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002231.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 455,
+    "xmax": 86,
+    "ymax": 476
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002238.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 313,
+    "ymin": 428,
+    "xmax": 378,
+    "ymax": 524
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002244.jpg",
+    "defect_type": "Pothole",
+    "xmin": 289,
+    "ymin": 417,
+    "xmax": 329,
+    "ymax": 436
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002267.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 227,
+    "ymin": 425,
+    "xmax": 262,
+    "ymax": 514
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002269.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 287,
+    "ymin": 477,
+    "xmax": 390,
+    "ymax": 501
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002285.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 168,
+    "ymin": 392,
+    "xmax": 246,
+    "ymax": 509
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002336.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 244,
+    "ymin": 384,
+    "xmax": 321,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002353.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 218,
+    "ymin": 468,
+    "xmax": 418,
+    "ymax": 504
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002353.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 94,
+    "ymin": 445,
+    "xmax": 234,
+    "ymax": 470
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002383.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 440,
+    "xmax": 217,
+    "ymax": 470
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002406.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 414,
+    "ymin": 460,
+    "xmax": 480,
+    "ymax": 521
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002428.jpg",
+    "defect_type": "Pothole",
+    "xmin": 292,
+    "ymin": 402,
+    "xmax": 348,
+    "ymax": 428
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002428.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 217,
+    "ymin": 393,
+    "xmax": 251,
+    "ymax": 472
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002436.jpg",
+    "defect_type": "Pothole",
+    "xmin": 329,
+    "ymin": 409,
+    "xmax": 365,
+    "ymax": 441
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002436.jpg",
+    "defect_type": "Pothole",
+    "xmin": 237,
+    "ymin": 422,
+    "xmax": 252,
+    "ymax": 443
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002448.jpg",
+    "defect_type": "Pothole",
+    "xmin": 61,
+    "ymin": 439,
+    "xmax": 142,
+    "ymax": 465
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002481.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 33,
+    "ymin": 470,
+    "xmax": 206,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002489.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 214,
+    "ymin": 464,
+    "xmax": 314,
+    "ymax": 512
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002500.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 298,
+    "ymin": 430,
+    "xmax": 377,
+    "ymax": 531
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002501.jpg",
+    "defect_type": "Pothole",
+    "xmin": 39,
+    "ymin": 407,
+    "xmax": 87,
+    "ymax": 428
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002533.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 305,
+    "ymin": 420,
+    "xmax": 347,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002533.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 42,
+    "ymin": 431,
+    "xmax": 160,
+    "ymax": 512
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002541.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 139,
+    "ymin": 449,
+    "xmax": 171,
+    "ymax": 491
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002556.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 113,
+    "ymin": 401,
+    "xmax": 230,
+    "ymax": 492
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002591.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 299,
+    "ymin": 409,
+    "xmax": 355,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002594.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 101,
+    "ymin": 417,
+    "xmax": 199,
+    "ymax": 519
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002597.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 55,
+    "ymin": 431,
+    "xmax": 359,
+    "ymax": 464
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002599.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 95,
+    "ymin": 452,
+    "xmax": 321,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002613.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 87,
+    "ymin": 405,
+    "xmax": 174,
+    "ymax": 443
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002660.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 226,
+    "ymin": 392,
+    "xmax": 265,
+    "ymax": 454
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002662.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 107,
+    "ymin": 477,
+    "xmax": 161,
+    "ymax": 500
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002662.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 165,
+    "ymin": 434,
+    "xmax": 268,
+    "ymax": 454
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002677.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 188,
+    "ymin": 501,
+    "xmax": 262,
+    "ymax": 518
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002682.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 160,
+    "ymin": 430,
+    "xmax": 364,
+    "ymax": 522
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002689.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 325,
+    "ymin": 488,
+    "xmax": 399,
+    "ymax": 510
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002715.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 199,
+    "ymin": 389,
+    "xmax": 246,
+    "ymax": 500
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002734.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 26,
+    "ymin": 440,
+    "xmax": 180,
+    "ymax": 460
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002734.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 2,
+    "ymin": 460,
+    "xmax": 156,
+    "ymax": 480
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002739.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 432,
+    "xmax": 107,
+    "ymax": 460
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002742.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 322,
+    "ymin": 436,
+    "xmax": 441,
+    "ymax": 526
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002752.jpg",
+    "defect_type": "Pothole",
+    "xmin": 511,
+    "ymin": 460,
+    "xmax": 600,
+    "ymax": 507
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002752.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 539,
+    "ymin": 415,
+    "xmax": 600,
+    "ymax": 559
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002769.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 220,
+    "ymin": 426,
+    "xmax": 262,
+    "ymax": 502
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002809.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 345,
+    "ymin": 461,
+    "xmax": 382,
+    "ymax": 529
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002821.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 237,
+    "ymin": 451,
+    "xmax": 292,
+    "ymax": 516
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002842.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 130,
+    "ymin": 440,
+    "xmax": 264,
+    "ymax": 469
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002842.jpg",
+    "defect_type": "Pothole",
+    "xmin": 402,
+    "ymin": 469,
+    "xmax": 444,
+    "ymax": 494
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002857.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 4,
+    "ymin": 389,
+    "xmax": 394,
+    "ymax": 489
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002890.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 203,
+    "ymin": 396,
+    "xmax": 254,
+    "ymax": 491
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002910.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 92,
+    "ymin": 428,
+    "xmax": 238,
+    "ymax": 458
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002956.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 77,
+    "ymin": 438,
+    "xmax": 151,
+    "ymax": 483
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002966.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 297,
+    "ymin": 389,
+    "xmax": 322,
+    "ymax": 468
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002970.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 203,
+    "ymin": 392,
+    "xmax": 248,
+    "ymax": 502
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002992.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 222,
+    "ymin": 460,
+    "xmax": 337,
+    "ymax": 524
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002998.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 343,
+    "ymin": 462,
+    "xmax": 400,
+    "ymax": 506
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002998.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 144,
+    "ymin": 487,
+    "xmax": 242,
+    "ymax": 510
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_002998.jpg",
+    "defect_type": "Pothole",
+    "xmin": 246,
+    "ymin": 445,
+    "xmax": 307,
+    "ymax": 475
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003000.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 175,
+    "ymin": 389,
+    "xmax": 233,
+    "ymax": 501
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003001.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 240,
+    "ymin": 449,
+    "xmax": 260,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003001.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 298,
+    "ymin": 454,
+    "xmax": 388,
+    "ymax": 480
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003001.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 165,
+    "ymin": 435,
+    "xmax": 255,
+    "ymax": 461
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003023.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 403,
+    "ymin": 425,
+    "xmax": 578,
+    "ymax": 544
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003032.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 395,
+    "ymin": 488,
+    "xmax": 425,
+    "ymax": 523
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003033.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 19,
+    "ymin": 490,
+    "xmax": 205,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003076.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 164,
+    "ymin": 438,
+    "xmax": 205,
+    "ymax": 507
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003117.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 28,
+    "ymin": 410,
+    "xmax": 129,
+    "ymax": 477
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003117.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 324,
+    "ymin": 425,
+    "xmax": 370,
+    "ymax": 523
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003118.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 11,
+    "ymin": 429,
+    "xmax": 150,
+    "ymax": 443
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003120.jpg",
+    "defect_type": "Pothole",
+    "xmin": 337,
+    "ymin": 436,
+    "xmax": 407,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003123.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 5,
+    "ymin": 483,
+    "xmax": 235,
+    "ymax": 513
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003176.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 293,
+    "ymin": 411,
+    "xmax": 340,
+    "ymax": 518
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003213.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 61,
+    "ymin": 430,
+    "xmax": 133,
+    "ymax": 479
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003231.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 318,
+    "ymin": 412,
+    "xmax": 384,
+    "ymax": 477
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003242.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 489,
+    "xmax": 100,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003266.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 363,
+    "ymin": 447,
+    "xmax": 413,
+    "ymax": 525
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003292.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 222,
+    "ymin": 458,
+    "xmax": 417,
+    "ymax": 505
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003315.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 193,
+    "ymin": 434,
+    "xmax": 217,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003326.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 336,
+    "ymin": 469,
+    "xmax": 382,
+    "ymax": 538
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003345.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 7,
+    "ymin": 421,
+    "xmax": 205,
+    "ymax": 517
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003348.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 3,
+    "ymin": 478,
+    "xmax": 118,
+    "ymax": 499
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003356.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 241,
+    "ymin": 398,
+    "xmax": 276,
+    "ymax": 521
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003364.jpg",
+    "defect_type": "Pothole",
+    "xmin": 288,
+    "ymin": 447,
+    "xmax": 326,
+    "ymax": 474
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003364.jpg",
+    "defect_type": "Pothole",
+    "xmin": 223,
+    "ymin": 507,
+    "xmax": 291,
+    "ymax": 527
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003391.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 2,
+    "ymin": 403,
+    "xmax": 177,
+    "ymax": 490
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003398.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 31,
+    "ymin": 431,
+    "xmax": 293,
+    "ymax": 448
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003410.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 31,
+    "ymin": 468,
+    "xmax": 102,
+    "ymax": 518
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003412.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 274,
+    "ymin": 446,
+    "xmax": 299,
+    "ymax": 511
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003430.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 252,
+    "ymin": 430,
+    "xmax": 286,
+    "ymax": 517
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003434.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 480,
+    "xmax": 217,
+    "ymax": 515
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003472.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 335,
+    "ymin": 424,
+    "xmax": 423,
+    "ymax": 536
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003477.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 145,
+    "ymin": 486,
+    "xmax": 312,
+    "ymax": 512
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003491.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 5,
+    "ymin": 442,
+    "xmax": 221,
+    "ymax": 477
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003500.jpg",
+    "defect_type": "Pothole",
+    "xmin": 270,
+    "ymin": 407,
+    "xmax": 303,
+    "ymax": 437
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003501.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 197,
+    "ymin": 432,
+    "xmax": 256,
+    "ymax": 479
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003535.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 214,
+    "ymin": 378,
+    "xmax": 242,
+    "ymax": 441
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003535.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 228,
+    "ymin": 429,
+    "xmax": 342,
+    "ymax": 449
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003546.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 1,
+    "ymin": 413,
+    "xmax": 124,
+    "ymax": 491
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003565.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 152,
+    "ymin": 421,
+    "xmax": 450,
+    "ymax": 531
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003571.jpg",
+    "defect_type": "Surface delamination",
+    "xmin": 345,
+    "ymin": 479,
+    "xmax": 422,
+    "ymax": 535
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003584.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 331,
+    "ymin": 452,
+    "xmax": 373,
+    "ymax": 509
+  },
+  {
+    "image_path": "C:\\Users\\24adi\\OneDrive\\RoadDefectOptimiser\\backend\\ml\\data\\rdd2022\\Czech\\train\\images\\Czech_003589.jpg",
+    "defect_type": "Longitudinal crack",
+    "xmin": 263,
+    "ymin": 459,
+    "xmax": 315,
+    "ymax": 514
+  }
+]
